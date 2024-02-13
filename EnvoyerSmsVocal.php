@@ -13,7 +13,6 @@ $data = [
     'apiKey' => 'YOUR_API_KEY',         // Remplacez par votre clé API réelle
     'phoneNumbers' => '06XXXXXXXX',     // Remplacez par le(s) numéro(s) de téléphone réel(s)
     'text' => 'Mon premier test',       // Remplacez par le texte que vous souhaitez convertir en parole
-    'lang' => 'fr',                     // Remplacez par le code de langue souhaité
     // 'speed' => '1',                  // Optionnel: Vitesse de la parole
     // 'notifyUrl' => 'http://...',     // Optionnel: URL de notification
     // 'scheduledDate' => 'YYYY-mm-dd H:i:00', // Optionnel: Date prévue pour l'envoi
